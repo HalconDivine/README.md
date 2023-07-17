@@ -1,4 +1,4 @@
-# Hello World
+# ETH-FINAL-PROJECT
 
 This Solidity program is a user input program in which the user may add and subtract tokens and monitor the balances.
 
